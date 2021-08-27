@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toyin54
-- 👀 I’m interested in in Data analysis and Mchine Learning
+- 👀 I’m interested in in Data analysis and Machine Learning
 - 🌱 I’m currently learning R, Python and MySQL
 
 
