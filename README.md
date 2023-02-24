@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @toyin54
-- 👀 I’m interested in in Data analysis and Machine Learning
-- 🌱 I’m currently learning R, Python and MySQL
+- 👋 Hi, I’m @Ayyub Jose
+- I am a current MSc in Computer Science student at DePaul University
+- 👀 I’m interested in in Data Science and Software Development
+- 🌱 I’m currently learning JavaScript, Python and MySQL
 
 
 
